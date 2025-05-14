@@ -1,0 +1,19 @@
+header{
+    background-color: #bcd6f1;
+    padding: 20px;
+    text-align: center;
+}
+footer{
+    background-color: #343a40;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+#about{
+    background-color: #bcd6f1;
+    padding: 20px;
+}
+#projects{
+    background-color: #bcd6f1;
+    padding: 20px;
+}
